@@ -1,13 +1,3 @@
-body {
-    margin: 0;
-}
-
-header {
-    background-color: black;
-    height: 100px;
-    padding: 10px;
-
-
-
-}
-
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/style.css ***!
+  \*****************************************************************/body{margin:0}header{background-color:#000;height:100px;padding:10px}
