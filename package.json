@@ -6,7 +6,9 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "dev": "webpack --mode development",
-        "prepare": "husky install"
+        "prod": "webpack --mode production",
+        "prepare": "husky install",
+        "serve": "webpack serve --port 3001"
     },
     "author": "egor",
     "license": "ISC",
